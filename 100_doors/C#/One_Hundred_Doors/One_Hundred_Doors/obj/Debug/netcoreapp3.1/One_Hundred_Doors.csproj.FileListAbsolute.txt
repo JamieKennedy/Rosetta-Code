@@ -1,0 +1,13 @@
+D:\Google Drive\Programming\Rosetta_Code\100_doors\C#\One_Hundred_Doors\One_Hundred_Doors\bin\Debug\netcoreapp3.1\One_Hundred_Doors.exe
+D:\Google Drive\Programming\Rosetta_Code\100_doors\C#\One_Hundred_Doors\One_Hundred_Doors\bin\Debug\netcoreapp3.1\One_Hundred_Doors.deps.json
+D:\Google Drive\Programming\Rosetta_Code\100_doors\C#\One_Hundred_Doors\One_Hundred_Doors\bin\Debug\netcoreapp3.1\One_Hundred_Doors.runtimeconfig.json
+D:\Google Drive\Programming\Rosetta_Code\100_doors\C#\One_Hundred_Doors\One_Hundred_Doors\bin\Debug\netcoreapp3.1\One_Hundred_Doors.runtimeconfig.dev.json
+D:\Google Drive\Programming\Rosetta_Code\100_doors\C#\One_Hundred_Doors\One_Hundred_Doors\bin\Debug\netcoreapp3.1\One_Hundred_Doors.dll
+D:\Google Drive\Programming\Rosetta_Code\100_doors\C#\One_Hundred_Doors\One_Hundred_Doors\bin\Debug\netcoreapp3.1\One_Hundred_Doors.pdb
+D:\Google Drive\Programming\Rosetta_Code\100_doors\C#\One_Hundred_Doors\One_Hundred_Doors\obj\Debug\netcoreapp3.1\One_Hundred_Doors.csprojAssemblyReference.cache
+D:\Google Drive\Programming\Rosetta_Code\100_doors\C#\One_Hundred_Doors\One_Hundred_Doors\obj\Debug\netcoreapp3.1\One_Hundred_Doors.csproj.CoreCompileInputs.cache
+D:\Google Drive\Programming\Rosetta_Code\100_doors\C#\One_Hundred_Doors\One_Hundred_Doors\obj\Debug\netcoreapp3.1\One_Hundred_Doors.AssemblyInfoInputs.cache
+D:\Google Drive\Programming\Rosetta_Code\100_doors\C#\One_Hundred_Doors\One_Hundred_Doors\obj\Debug\netcoreapp3.1\One_Hundred_Doors.AssemblyInfo.cs
+D:\Google Drive\Programming\Rosetta_Code\100_doors\C#\One_Hundred_Doors\One_Hundred_Doors\obj\Debug\netcoreapp3.1\One_Hundred_Doors.dll
+D:\Google Drive\Programming\Rosetta_Code\100_doors\C#\One_Hundred_Doors\One_Hundred_Doors\obj\Debug\netcoreapp3.1\One_Hundred_Doors.pdb
+D:\Google Drive\Programming\Rosetta_Code\100_doors\C#\One_Hundred_Doors\One_Hundred_Doors\obj\Debug\netcoreapp3.1\One_Hundred_Doors.genruntimeconfig.cache
